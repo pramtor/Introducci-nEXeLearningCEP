@@ -1,0 +1,3260 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+ <dictionary>
+  <string role="key" value="_title"></string>
+  <unicode value="REA Introducción. Cuaderno de ejercicios."></unicode>
+  <string role="key" value="idevices"></string>
+  <list></list>
+  <string role="key" value="_addExeLink"></string>
+  <bool value="1"></bool>
+  <string role="key" value="_addPagination"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addSearchBox"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_author"></string>
+  <unicode value="Pedro Jesús Ramón Torregrosa"></unicode>
+  <string role="key" value="_backgroundImg"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextMode"></string>
+  <unicode value="presencial"></unicode>
+  <string role="key" value="_contextPlace"></string>
+  <unicode value="classroom"></unicode>
+  <string role="key" value="_description"></string>
+  <unicode value="REA de ejercicios para que los participantes en una actividad formativa se aproximen a la edición y creación de Recursos Digitales Abiertos con eXeLearning."></unicode>
+  <string role="key" value="_docType"></string>
+  <unicode value="HTML5"></unicode>
+  <string role="key" value="_exportElp"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_extraHeadContent"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_fieldValidationInfo"></string>
+  <dictionary>
+   <unicode role="key" value="all"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_title"></unicode>
+     <unicode value="pp_lang"></unicode>
+     <unicode value="pp_description"></unicode>
+     <unicode value="pp_author"></unicode>
+     <unicode value="pp_newlicense"></unicode>
+    </list>
+   </dictionary>
+   <unicode role="key" value="procomun"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_learningResourceType"></unicode>
+    </list>
+    <unicode role="key" value="values_from_list"></unicode>
+    <dictionary>
+     <unicode role="key" value="pp_learningResourceType"></unicode>
+     <list>
+      <unicode value="master class"></unicode>
+      <unicode value="closed exercise or problem"></unicode>
+      <unicode value="real project"></unicode>
+      <unicode value="didactic game"></unicode>
+      <unicode value="webquest"></unicode>
+      <unicode value="open problem"></unicode>
+      <unicode value="simulation"></unicode>
+      <unicode value="questionnaire"></unicode>
+      <unicode value="conceptual map"></unicode>
+     </list>
+    </dictionary>
+   </dictionary>
+  </dictionary>
+  <string role="key" value="_intendedEndUserRoleGroup"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleTutor"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleType"></string>
+  <unicode value="learner"></unicode>
+  <string role="key" value="_isChanged"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_isTemplate"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_lang"></string>
+  <unicode value="es"></unicode>
+  <string role="key" value="_learningResourceType"></string>
+  <unicode value="guided reading"></unicode>
+  <string role="key" value="_levelNames"></string>
+  <list>
+   <unicode value="Tema"></unicode>
+   <unicode value="Sección"></unicode>
+   <unicode value="Unidad"></unicode>
+  </list>
+  <string role="key" value="_loadMathEngine"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_name"></string>
+  <unicode value="Ejercicios_Modulo_CDD_Formacion_Centros_eXeLearning_1"></unicode>
+  <string role="key" value="_nextIdeviceId"></string>
+  <int value="949"></int>
+  <string role="key" value="_nextNodeId"></string>
+  <int value="271"></int>
+  <string role="key" value="_nodeIdDict"></string>
+  <dictionary>
+   <unicode role="key" value="0"></unicode>
+   <instance class="exe.engine.node.Node" reference="7">
+    <dictionary>
+     <string role="key" value="_title"></string>
+     <unicode value="REA: Introducción"></unicode>
+     <string role="key" value="idevices"></string>
+     <list>
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="_attributes"></string>
+        <list>
+         <tuple>
+          <string value="title"></string>
+          <list>
+           <string value="Title"></string>
+           <int value="0"></int>
+           <int value="0"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="category"></string>
+          <list>
+           <string value="Category"></string>
+           <int value="0"></int>
+           <int value="1"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="css-class"></string>
+          <list>
+           <string value="CSS class"></string>
+           <int value="0"></int>
+           <int value="2"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="icon"></string>
+          <list>
+           <string value="Icon"></string>
+           <int value="0"></int>
+           <int value="3"></int>
+          </list>
+         </tuple>
+        </list>
+        <string role="key" value="_author"></string>
+        <string value=""></string>
+        <string role="key" value="_iDeviceDir"></string>
+        <string value="text"></string>
+        <string role="key" value="_purpose"></string>
+        <string value=""></string>
+        <string role="key" value="_tip"></string>
+        <string value=""></string>
+        <string role="key" value="_valid"></string>
+        <bool value="1"></bool>
+        <string role="key" value="class_"></string>
+        <unicode value="text"></unicode>
+        <string role="key" value="edit"></string>
+        <bool value="0"></bool>
+        <string role="key" value="emphasis"></string>
+        <int value="0"></int>
+        <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+        <int value="1"></int>
+        <string role="key" value="fields"></string>
+        <list>
+         <instance class="exe.engine.field.TextAreaField" reference="3">
+          <dictionary>
+           <string role="key" value="_id"></string>
+           <unicode value="428_2"></unicode>
+           <string role="key" value="_idevice"></string>
+           <reference key="1"></reference>
+           <string role="key" value="_instruc"></string>
+           <string value=""></string>
+           <string role="key" value="_name"></string>
+           <string value=""></string>
+           <string role="key" value="anchor_names"></string>
+           <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
+           <string role="key" value="content_w_resourcePaths"></string>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 850px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/Creditos_REA_Basico_Cuaderno_Ejercicios.png&quot; alt=&quot;La imagen muestra la portada del REA con la identificación del curso. Cuadernos de ejercicios&quot; title=&quot;Portada&quot; width=&quot;850&quot; height=&quot;400&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://twitter.com/MasQCiencia&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Pedro Jesús Ramón Torregrosa&lt;/a&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Cuaderno de ejercicios&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;La idea de este cuaderno es que vayas familiarizándote con eXeLearning de una forma práctica dándole forma a una archivo que te sea útil para tu aula.&lt;/p&gt;
+&lt;p&gt;En el nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios#auto_top&quot;&gt;Ejercicios&lt;/a&gt;&quot; de este cuaderno encontrarás el enunciado de tres ejercicios diferentes que debes realizar en el nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Soluciones#auto_top&quot;&gt;Soluciones&lt;/a&gt;&quot;. En este nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Soluciones#auto_top&quot;&gt;Soluciones&lt;/a&gt;&quot; encontrarás los iDevices creados para cada uno de las actividades planteadas en el nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios#auto_top&quot;&gt;Ejercicios&lt;/a&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;Antes de empezar a resolverlos cumplimenta los campos que aparecen en el nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ficha%20del%20docente#auto_top&quot;&gt;Ficha del docente&lt;/a&gt;&quot;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+           <int value="4"></int>
+           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+           <int value="3"></int>
+           <string role="key" value="htmlTag"></string>
+           <string value="div"></string>
+           <string role="key" value="images"></string>
+           <instance class="exe.engine.galleryidevice.GalleryImages">
+            <dictionary>
+             <string role="key" value=".listitems"></string>
+             <list>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="100743"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="428_428_2.272"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="34">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="Creditos_REA_Basico_Cuaderno_Ejercicios.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="/var/folders/7d/v82rm_vn46v58_3lg2mx8kfr0000gn/T/tmpvaN1Fw/Creditos_REA_Basico_Cuaderno_Ejercicios.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="0eb33b2d6bf8fb61b61c9129164e0c00"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+             </list>
+             <string role="key" value="idevice"></string>
+             <reference key="3"></reference>
+            </dictionary>
+           </instance>
+           <string role="key" value="intlinks_to_anchors"></string>
+           <dictionary>
+            <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios#auto_top"></unicode>
+            <instance class="exe.engine.node.Node" reference="6">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Ejercicios"></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="4">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Retos a resolver"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="5">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="869_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="4"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Una vez que ya hayamos descargado e instalado eXeLEarning en nuestro ordenador estaremos en condiciones de comenzar a realizar los ejercicios que se proponen a continuación y con los que trataremos de realizar un somera introducción a la edición de REA mediante eXeLearning. &lt;/p&gt;
+&lt;p&gt;En primer lugar debes tener en cuenta que esta tarea es eminentemente práctica y que podrás usarla con tu alumnado así que, cuando resuelvas los retos que se plantean a continuación, adapta los enunciados y contenidos que albergues en ellas a tu propia materia.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Crear, editar y dar formato a un bloque de texto&lt;/strong&gt;. &lt;br /&gt;
+&lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
+&lt;li&gt;Ejercicios de texto&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incorporación de una actividad interactiva en eXeLearning.&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Juegos en eXeLearning: Rosco&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exporta tu proyecto en eXeLearning.&lt;/strong&gt;
+&lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
+&lt;li&gt;Integración de eXeLearning en un agregador público como web.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Manos a la obra&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="5"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="6"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="898"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="6"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="202"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios"></string>
+              <string role="key" value="parent"></string>
+              <reference key="7"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list>
+               <reference key="3"></reference>
+               <instance class="exe.engine.field.TextAreaField" reference="8">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="1023_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
+                  <dictionary>
+                   <string role="key" value="_title"></string>
+                   <unicode value="Soluciones a los retos"></unicode>
+                   <string role="key" value="_attributes"></string>
+                   <list>
+                    <tuple>
+                     <string value="title"></string>
+                     <list>
+                      <string value="Title"></string>
+                      <int value="0"></int>
+                      <int value="0"></int>
+                     </list>
+                    </tuple>
+                    <tuple>
+                     <string value="category"></string>
+                     <list>
+                      <string value="Category"></string>
+                      <int value="0"></int>
+                      <int value="1"></int>
+                     </list>
+                    </tuple>
+                    <tuple>
+                     <string value="css-class"></string>
+                     <list>
+                      <string value="CSS class"></string>
+                      <int value="0"></int>
+                      <int value="2"></int>
+                     </list>
+                    </tuple>
+                    <tuple>
+                     <string value="icon"></string>
+                     <list>
+                      <string value="Icon"></string>
+                      <int value="0"></int>
+                      <int value="3"></int>
+                     </list>
+                    </tuple>
+                   </list>
+                   <string role="key" value="_author"></string>
+                   <string value=""></string>
+                   <string role="key" value="_iDeviceDir"></string>
+                   <string value="text"></string>
+                   <string role="key" value="_purpose"></string>
+                   <string value=""></string>
+                   <string role="key" value="_tip"></string>
+                   <string value=""></string>
+                   <string role="key" value="_typeName"></string>
+                   <unicode value="Text"></unicode>
+                   <string role="key" value="_valid"></string>
+                   <bool value="1"></bool>
+                   <string role="key" value="class_"></string>
+                   <unicode value="text"></unicode>
+                   <string role="key" value="edit"></string>
+                   <bool value="0"></bool>
+                   <string role="key" value="emphasis"></string>
+                   <int value="1"></int>
+                   <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                   <int value="1"></int>
+                   <string role="key" value="fields"></string>
+                   <list>
+                    <reference key="8"></reference>
+                   </list>
+                   <string role="key" value="icon"></string>
+                   <unicode value=""></unicode>
+                   <string role="key" value="id"></string>
+                   <unicode value="943"></unicode>
+                   <string role="key" value="ideviceCategory"></string>
+                   <unicode value="Text and Tasks"></unicode>
+                   <string role="key" value="lastIdevice"></string>
+                   <bool value="0"></bool>
+                   <string role="key" value="nextFieldId"></string>
+                   <int value="3"></int>
+                   <string role="key" value="originalicon"></string>
+                   <string value=""></string>
+                   <string role="key" value="parentNode"></string>
+                   <instance class="exe.engine.node.Node" reference="16">
+                    <dictionary>
+                     <string role="key" value="_title"></string>
+                     <unicode value="Soluciones"></unicode>
+                     <string role="key" value="idevices"></string>
+                     <list>
+                      <reference key="9"></reference>
+                     </list>
+                     <string role="key" value="_id"></string>
+                     <unicode value="264"></unicode>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="anchor_fields"></string>
+                     <list></list>
+                     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exportType"></string>
+                     <string value="website"></string>
+                     <string role="key" value="last_full_node_path"></string>
+                     <string value="exe-node:REA%3A%20Introducci%C3%B3n:Soluciones"></string>
+                     <string role="key" value="parent"></string>
+                     <reference key="7"></reference>
+                     <string role="key" value="top_anchors_linked_from_fields"></string>
+                     <list>
+                      <reference key="3"></reference>
+                     </list>
+                     <string role="key" value="children"></string>
+                     <list>
+                      <instance class="exe.engine.node.Node" reference="15">
+                       <dictionary>
+                        <string role="key" value="_title"></string>
+                        <unicode value="Solución Reto 1: Ejercicio de texto"></unicode>
+                        <string role="key" value="idevices"></string>
+                        <list>
+                         <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
+                          <dictionary>
+                           <string role="key" value="_title"></string>
+                           <unicode value=""></unicode>
+                           <string role="key" value="_attributes"></string>
+                           <list>
+                            <tuple>
+                             <string value="title"></string>
+                             <list>
+                              <string value="Title"></string>
+                              <int value="0"></int>
+                              <int value="0"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="category"></string>
+                             <list>
+                              <string value="Category"></string>
+                              <int value="0"></int>
+                              <int value="1"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="css-class"></string>
+                             <list>
+                              <string value="CSS class"></string>
+                              <int value="0"></int>
+                              <int value="2"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="icon"></string>
+                             <list>
+                              <string value="Icon"></string>
+                              <int value="0"></int>
+                              <int value="3"></int>
+                             </list>
+                            </tuple>
+                           </list>
+                           <string role="key" value="_author"></string>
+                           <string value=""></string>
+                           <string role="key" value="_iDeviceDir"></string>
+                           <string value="text"></string>
+                           <string role="key" value="_purpose"></string>
+                           <string value=""></string>
+                           <string role="key" value="_tip"></string>
+                           <string value=""></string>
+                           <string role="key" value="_typeName"></string>
+                           <unicode value="Text"></unicode>
+                           <string role="key" value="_valid"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="class_"></string>
+                           <unicode value="text"></unicode>
+                           <string role="key" value="edit"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="emphasis"></string>
+                           <int value="0"></int>
+                           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                           <int value="1"></int>
+                           <string role="key" value="fields"></string>
+                           <list>
+                            <instance class="exe.engine.field.TextAreaField" reference="11">
+                             <dictionary>
+                              <string role="key" value="_id"></string>
+                              <unicode value="1024_2"></unicode>
+                              <string role="key" value="_idevice"></string>
+                              <reference key="10"></reference>
+                              <string role="key" value="_instruc"></string>
+                              <string value=""></string>
+                              <string role="key" value="_name"></string>
+                              <string value=""></string>
+                              <string role="key" value="anchor_names"></string>
+                              <list></list>
+                              <string role="key" value="anchors_linked_from_fields"></string>
+                              <dictionary></dictionary>
+                              <string role="key" value="content_w_resourcePaths"></string>
+                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Incluye aquí tu solución al &lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%201%3A%20Ejercicio%20de%20texto#auto_top&quot;&gt;Reto 1: Ejercicio de texto&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                              <int value="4"></int>
+                              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                              <int value="2"></int>
+                              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                              <int value="3"></int>
+                              <string role="key" value="htmlTag"></string>
+                              <string value="div"></string>
+                              <string role="key" value="images"></string>
+                              <instance class="exe.engine.galleryidevice.GalleryImages">
+                               <dictionary>
+                                <string role="key" value=".listitems"></string>
+                                <list></list>
+                                <string role="key" value="idevice"></string>
+                                <reference key="11"></reference>
+                               </dictionary>
+                              </instance>
+                              <string role="key" value="intlinks_to_anchors"></string>
+                              <dictionary>
+                               <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%201%3A%20Ejercicio%20de%20texto#auto_top"></unicode>
+                               <instance class="exe.engine.node.Node" reference="14">
+                                <dictionary>
+                                 <string role="key" value="_title"></string>
+                                 <unicode value="Reto 1: Ejercicio de texto"></unicode>
+                                 <string role="key" value="idevices"></string>
+                                 <list>
+                                  <instance class="exe.engine.jsidevice.JsIdevice" reference="12">
+                                   <dictionary>
+                                    <string role="key" value="_title"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="_attributes"></string>
+                                    <list>
+                                     <tuple>
+                                      <string value="title"></string>
+                                      <list>
+                                       <string value="Title"></string>
+                                       <int value="0"></int>
+                                       <int value="0"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="category"></string>
+                                      <list>
+                                       <string value="Category"></string>
+                                       <int value="0"></int>
+                                       <int value="1"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="css-class"></string>
+                                      <list>
+                                       <string value="CSS class"></string>
+                                       <int value="0"></int>
+                                       <int value="2"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="icon"></string>
+                                      <list>
+                                       <string value="Icon"></string>
+                                       <int value="0"></int>
+                                       <int value="3"></int>
+                                      </list>
+                                     </tuple>
+                                    </list>
+                                    <string role="key" value="_author"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_iDeviceDir"></string>
+                                    <string value="text"></string>
+                                    <string role="key" value="_purpose"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_tip"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_typeName"></string>
+                                    <unicode value="Text"></unicode>
+                                    <string role="key" value="_valid"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="class_"></string>
+                                    <unicode value="text"></unicode>
+                                    <string role="key" value="edit"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="emphasis"></string>
+                                    <int value="0"></int>
+                                    <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                                    <int value="1"></int>
+                                    <string role="key" value="fields"></string>
+                                    <list>
+                                     <instance class="exe.engine.field.TextAreaField" reference="13">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <unicode value="1017_2"></unicode>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="12"></reference>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="anchor_names"></string>
+                                       <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="content_w_resourcePaths"></string>
+                                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ol&gt;
+&lt;li&gt;Introduce un pequeño texto sobre un contenido de tu materia (puedes copiarlo de Wikipedia, por ejemplo).
+&lt;ul&gt;
+&lt;li&gt;Justifica el texto a ambos lados de la página.&lt;/li&gt;
+&lt;li&gt;Añade una lista numerada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Elige una palabra de ese texto y añádele un enlace a wikipedia.&lt;/li&gt;
+&lt;li&gt;Añade un vídeo de Youtube que apoye la explicación. Ten en cuenta los siguientes aspectos:
+&lt;ul&gt;
+&lt;li&gt;Elige un vídeo de youtube. Te bastará con la dirección del vídeo.&lt;/li&gt;
+&lt;li&gt;Colócalo centrado debajo del texto y añade un pie de imagen que describa brevemente su contenido. El pie de imagen deberá aparecer centrado respecto de la imagen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Te dejo aquí un par de videotutoriales por si necesitas ayuda:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://acortar.link/1gnkYz&quot;&gt;Editar texto en eXeLearning (iDevice &quot;Texto&quot;).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hwec_nKNCTQ&amp;amp;t=4s&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Insertar un vídeo de Youtube en eXeLearning (iDevice &quot;Texto&quot;).&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;"></unicode>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                       <int value="3"></int>
+                                       <string role="key" value="htmlTag"></string>
+                                       <string value="div"></string>
+                                       <string role="key" value="images"></string>
+                                       <instance class="exe.engine.galleryidevice.GalleryImages">
+                                        <dictionary>
+                                         <string role="key" value=".listitems"></string>
+                                         <list></list>
+                                         <string role="key" value="idevice"></string>
+                                         <reference key="13"></reference>
+                                        </dictionary>
+                                       </instance>
+                                       <string role="key" value="intlinks_to_anchors"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="nextImageId"></string>
+                                       <int value="0"></int>
+                                       <string role="key" value="parentNode"></string>
+                                       <reference key="14"></reference>
+                                      </dictionary>
+                                     </instance>
+                                    </list>
+                                    <string role="key" value="icon"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="id"></string>
+                                    <unicode value="937"></unicode>
+                                    <string role="key" value="ideviceCategory"></string>
+                                    <unicode value="Text and Tasks"></unicode>
+                                    <string role="key" value="lastIdevice"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="nextFieldId"></string>
+                                    <int value="3"></int>
+                                    <string role="key" value="originalicon"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="parentNode"></string>
+                                    <reference key="14"></reference>
+                                    <string role="key" value="systemResources"></string>
+                                    <list></list>
+                                    <string role="key" value="undo"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="userResources"></string>
+                                    <list></list>
+                                    <string role="key" value="version"></string>
+                                    <int value="0"></int>
+                                   </dictionary>
+                                  </instance>
+                                 </list>
+                                 <string role="key" value="_id"></string>
+                                 <unicode value="265"></unicode>
+                                 <string role="key" value="_package"></string>
+                                 <reference key="2"></reference>
+                                 <string role="key" value="anchor_fields"></string>
+                                 <list></list>
+                                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                                 <int value="2"></int>
+                                 <string role="key" value="exportType"></string>
+                                 <string value="website"></string>
+                                 <string role="key" value="last_full_node_path"></string>
+                                 <string value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%201%3A%20Ejercicio%20de%20texto"></string>
+                                 <string role="key" value="parent"></string>
+                                 <reference key="6"></reference>
+                                 <string role="key" value="top_anchors_linked_from_fields"></string>
+                                 <list>
+                                  <reference key="11"></reference>
+                                 </list>
+                                 <string role="key" value="children"></string>
+                                 <list></list>
+                                </dictionary>
+                               </instance>
+                              </dictionary>
+                              <string role="key" value="nextImageId"></string>
+                              <int value="0"></int>
+                              <string role="key" value="parentNode"></string>
+                              <reference key="15"></reference>
+                             </dictionary>
+                            </instance>
+                           </list>
+                           <string role="key" value="icon"></string>
+                           <unicode value=""></unicode>
+                           <string role="key" value="id"></string>
+                           <unicode value="944"></unicode>
+                           <string role="key" value="ideviceCategory"></string>
+                           <unicode value="Text and Tasks"></unicode>
+                           <string role="key" value="lastIdevice"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="nextFieldId"></string>
+                           <int value="3"></int>
+                           <string role="key" value="originalicon"></string>
+                           <string value=""></string>
+                           <string role="key" value="parentNode"></string>
+                           <reference key="15"></reference>
+                           <string role="key" value="systemResources"></string>
+                           <list></list>
+                           <string role="key" value="undo"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="userResources"></string>
+                           <list></list>
+                           <string role="key" value="version"></string>
+                           <int value="0"></int>
+                          </dictionary>
+                         </instance>
+                        </list>
+                        <string role="key" value="_id"></string>
+                        <unicode value="268"></unicode>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="anchor_fields"></string>
+                        <list></list>
+                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exportType"></string>
+                        <string value="website"></string>
+                        <string role="key" value="last_full_node_path"></string>
+                        <string value="exe-node:REA%3A%20Introducci%C3%B3n:Soluciones:Soluci%C3%B3n%20Reto%201%3A%20Ejercicio%20de%20texto"></string>
+                        <string role="key" value="parent"></string>
+                        <reference key="16"></reference>
+                        <string role="key" value="top_anchors_linked_from_fields"></string>
+                        <list></list>
+                        <string role="key" value="children"></string>
+                        <list></list>
+                       </dictionary>
+                      </instance>
+                      <instance class="exe.engine.node.Node" reference="23">
+                       <dictionary>
+                        <string role="key" value="_title"></string>
+                        <unicode value="Solución Reto 2: Actividades interactivas"></unicode>
+                        <string role="key" value="idevices"></string>
+                        <list>
+                         <instance class="exe.engine.jsidevice.JsIdevice" reference="17">
+                          <dictionary>
+                           <string role="key" value="_title"></string>
+                           <unicode value="Solución Lista desordenada"></unicode>
+                           <string role="key" value="_attributes"></string>
+                           <list>
+                            <tuple>
+                             <string value="title"></string>
+                             <list>
+                              <string value="Title"></string>
+                              <int value="0"></int>
+                              <int value="0"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="category"></string>
+                             <list>
+                              <string value="Category"></string>
+                              <int value="0"></int>
+                              <int value="1"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="css-class"></string>
+                             <list>
+                              <string value="CSS class"></string>
+                              <int value="0"></int>
+                              <int value="2"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="icon"></string>
+                             <list>
+                              <string value="Icon"></string>
+                              <int value="0"></int>
+                              <int value="3"></int>
+                             </list>
+                            </tuple>
+                           </list>
+                           <string role="key" value="_author"></string>
+                           <string value=""></string>
+                           <string role="key" value="_iDeviceDir"></string>
+                           <string value="text"></string>
+                           <string role="key" value="_purpose"></string>
+                           <string value=""></string>
+                           <string role="key" value="_tip"></string>
+                           <string value=""></string>
+                           <string role="key" value="_typeName"></string>
+                           <unicode value="Text"></unicode>
+                           <string role="key" value="_valid"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="class_"></string>
+                           <unicode value="text"></unicode>
+                           <string role="key" value="edit"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="emphasis"></string>
+                           <int value="1"></int>
+                           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                           <int value="1"></int>
+                           <string role="key" value="fields"></string>
+                           <list>
+                            <instance class="exe.engine.field.TextAreaField" reference="18">
+                             <dictionary>
+                              <string role="key" value="_id"></string>
+                              <unicode value="1026_2"></unicode>
+                              <string role="key" value="_idevice"></string>
+                              <reference key="17"></reference>
+                              <string role="key" value="_instruc"></string>
+                              <string value=""></string>
+                              <string role="key" value="_name"></string>
+                              <string value=""></string>
+                              <string role="key" value="anchor_names"></string>
+                              <list></list>
+                              <string role="key" value="anchors_linked_from_fields"></string>
+                              <dictionary></dictionary>
+                              <string role="key" value="content_w_resourcePaths"></string>
+                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Incluye aquí tu solución al &lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%202%3A%20Actividades%20interactivas#auto_top&quot;&gt;Reto 2: Actividades interactivas. Lista desordenada&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                              <int value="4"></int>
+                              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                              <int value="2"></int>
+                              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                              <int value="3"></int>
+                              <string role="key" value="htmlTag"></string>
+                              <string value="div"></string>
+                              <string role="key" value="images"></string>
+                              <instance class="exe.engine.galleryidevice.GalleryImages">
+                               <dictionary>
+                                <string role="key" value=".listitems"></string>
+                                <list></list>
+                                <string role="key" value="idevice"></string>
+                                <reference key="18"></reference>
+                               </dictionary>
+                              </instance>
+                              <string role="key" value="intlinks_to_anchors"></string>
+                              <dictionary>
+                               <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%202%3A%20Actividades%20interactivas#auto_top"></unicode>
+                               <instance class="exe.engine.node.Node" reference="21">
+                                <dictionary>
+                                 <string role="key" value="_title"></string>
+                                 <unicode value="Reto 2: Actividades interactivas"></unicode>
+                                 <string role="key" value="idevices"></string>
+                                 <list>
+                                  <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
+                                   <dictionary>
+                                    <string role="key" value="_title"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="_attributes"></string>
+                                    <list>
+                                     <tuple>
+                                      <string value="title"></string>
+                                      <list>
+                                       <string value="Title"></string>
+                                       <int value="0"></int>
+                                       <int value="0"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="category"></string>
+                                      <list>
+                                       <string value="Category"></string>
+                                       <int value="0"></int>
+                                       <int value="1"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="css-class"></string>
+                                      <list>
+                                       <string value="CSS class"></string>
+                                       <int value="0"></int>
+                                       <int value="2"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="icon"></string>
+                                      <list>
+                                       <string value="Icon"></string>
+                                       <int value="0"></int>
+                                       <int value="3"></int>
+                                      </list>
+                                     </tuple>
+                                    </list>
+                                    <string role="key" value="_author"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_iDeviceDir"></string>
+                                    <string value="text"></string>
+                                    <string role="key" value="_purpose"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_tip"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_typeName"></string>
+                                    <unicode value="Text"></unicode>
+                                    <string role="key" value="_valid"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="class_"></string>
+                                    <unicode value="text"></unicode>
+                                    <string role="key" value="edit"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="emphasis"></string>
+                                    <int value="0"></int>
+                                    <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                                    <int value="1"></int>
+                                    <string role="key" value="fields"></string>
+                                    <list>
+                                     <instance class="exe.engine.field.TextAreaField" reference="20">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <unicode value="1019_2"></unicode>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="19"></reference>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="anchor_names"></string>
+                                       <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="content_w_resourcePaths"></string>
+                                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ol&gt;
+&lt;li&gt;Crea una actividad interactiva del tipo &quot;Lista desordenada&quot; con las siguientes características.
+&lt;ul&gt;
+&lt;li&gt;Deberás incluir instrucciones para realizar la tarea.&lt;/li&gt;
+&lt;li&gt;La lista de palabras al ordenar debe ser de al menos 5 diferentes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incluye una actividad Tipo Verdadero-Falso.
+&lt;ul&gt;
+&lt;li&gt;Añádele como mínimo 3 enunciados diferentes.&lt;/li&gt;
+&lt;li&gt;Incorpora retroalimentación al menos en dos de ellos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Te dejo aquí un par de videotutoriales por si necesitas ayuda:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://acortar.link/zo5yr9&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Crear una actividad interactiva &quot;Lista desordenada&quot; en eXeLearning (iDevice &quot;Lista desordenada&quot;).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://acortar.link/qeJBgR&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Insertar actividades del tipo verdadero-falso (iDevice &quot;Pregunta Verdadero-Falso&quot;).&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;"></unicode>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                       <int value="3"></int>
+                                       <string role="key" value="htmlTag"></string>
+                                       <string value="div"></string>
+                                       <string role="key" value="images"></string>
+                                       <instance class="exe.engine.galleryidevice.GalleryImages">
+                                        <dictionary>
+                                         <string role="key" value=".listitems"></string>
+                                         <list></list>
+                                         <string role="key" value="idevice"></string>
+                                         <reference key="20"></reference>
+                                        </dictionary>
+                                       </instance>
+                                       <string role="key" value="intlinks_to_anchors"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="nextImageId"></string>
+                                       <int value="0"></int>
+                                       <string role="key" value="parentNode"></string>
+                                       <reference key="21"></reference>
+                                      </dictionary>
+                                     </instance>
+                                    </list>
+                                    <string role="key" value="icon"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="id"></string>
+                                    <unicode value="939"></unicode>
+                                    <string role="key" value="ideviceCategory"></string>
+                                    <unicode value="Text and Tasks"></unicode>
+                                    <string role="key" value="lastIdevice"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="nextFieldId"></string>
+                                    <int value="3"></int>
+                                    <string role="key" value="originalicon"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="parentNode"></string>
+                                    <reference key="21"></reference>
+                                    <string role="key" value="systemResources"></string>
+                                    <list></list>
+                                    <string role="key" value="undo"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="userResources"></string>
+                                    <list></list>
+                                    <string role="key" value="version"></string>
+                                    <int value="0"></int>
+                                   </dictionary>
+                                  </instance>
+                                 </list>
+                                 <string role="key" value="_id"></string>
+                                 <unicode value="266"></unicode>
+                                 <string role="key" value="_package"></string>
+                                 <reference key="2"></reference>
+                                 <string role="key" value="anchor_fields"></string>
+                                 <list></list>
+                                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                                 <int value="2"></int>
+                                 <string role="key" value="exportType"></string>
+                                 <string value="website"></string>
+                                 <string role="key" value="last_full_node_path"></string>
+                                 <string value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%202%3A%20Actividades%20interactivas"></string>
+                                 <string role="key" value="parent"></string>
+                                 <reference key="6"></reference>
+                                 <string role="key" value="top_anchors_linked_from_fields"></string>
+                                 <list>
+                                  <reference key="18"></reference>
+                                  <instance class="exe.engine.field.TextAreaField" reference="22">
+                                   <dictionary>
+                                    <string role="key" value="_id"></string>
+                                    <unicode value="1027_2"></unicode>
+                                    <string role="key" value="_idevice"></string>
+                                    <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
+                                     <dictionary>
+                                      <string role="key" value="_title"></string>
+                                      <unicode value="Solución Verdadero-Falso"></unicode>
+                                      <string role="key" value="_attributes"></string>
+                                      <list>
+                                       <tuple>
+                                        <string value="title"></string>
+                                        <list>
+                                         <string value="Title"></string>
+                                         <int value="0"></int>
+                                         <int value="0"></int>
+                                        </list>
+                                       </tuple>
+                                       <tuple>
+                                        <string value="category"></string>
+                                        <list>
+                                         <string value="Category"></string>
+                                         <int value="0"></int>
+                                         <int value="1"></int>
+                                        </list>
+                                       </tuple>
+                                       <tuple>
+                                        <string value="css-class"></string>
+                                        <list>
+                                         <string value="CSS class"></string>
+                                         <int value="0"></int>
+                                         <int value="2"></int>
+                                        </list>
+                                       </tuple>
+                                       <tuple>
+                                        <string value="icon"></string>
+                                        <list>
+                                         <string value="Icon"></string>
+                                         <int value="0"></int>
+                                         <int value="3"></int>
+                                        </list>
+                                       </tuple>
+                                      </list>
+                                      <string role="key" value="_author"></string>
+                                      <string value=""></string>
+                                      <string role="key" value="_iDeviceDir"></string>
+                                      <string value="text"></string>
+                                      <string role="key" value="_purpose"></string>
+                                      <string value=""></string>
+                                      <string role="key" value="_tip"></string>
+                                      <string value=""></string>
+                                      <string role="key" value="_typeName"></string>
+                                      <unicode value="Text"></unicode>
+                                      <string role="key" value="_valid"></string>
+                                      <bool value="1"></bool>
+                                      <string role="key" value="class_"></string>
+                                      <unicode value="text"></unicode>
+                                      <string role="key" value="edit"></string>
+                                      <bool value="0"></bool>
+                                      <string role="key" value="emphasis"></string>
+                                      <int value="1"></int>
+                                      <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                                      <int value="1"></int>
+                                      <string role="key" value="fields"></string>
+                                      <list>
+                                       <reference key="22"></reference>
+                                      </list>
+                                      <string role="key" value="icon"></string>
+                                      <unicode value=""></unicode>
+                                      <string role="key" value="id"></string>
+                                      <unicode value="947"></unicode>
+                                      <string role="key" value="ideviceCategory"></string>
+                                      <unicode value="Text and Tasks"></unicode>
+                                      <string role="key" value="lastIdevice"></string>
+                                      <bool value="0"></bool>
+                                      <string role="key" value="nextFieldId"></string>
+                                      <int value="3"></int>
+                                      <string role="key" value="originalicon"></string>
+                                      <string value=""></string>
+                                      <string role="key" value="parentNode"></string>
+                                      <reference key="23"></reference>
+                                      <string role="key" value="systemResources"></string>
+                                      <list></list>
+                                      <string role="key" value="undo"></string>
+                                      <bool value="1"></bool>
+                                      <string role="key" value="userResources"></string>
+                                      <list></list>
+                                      <string role="key" value="version"></string>
+                                      <int value="0"></int>
+                                     </dictionary>
+                                    </instance>
+                                    <string role="key" value="_instruc"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_name"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="anchor_names"></string>
+                                    <list></list>
+                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                    <dictionary></dictionary>
+                                    <string role="key" value="content_w_resourcePaths"></string>
+                                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Incluye aquí tu solución al &lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%202%3A%20Actividades%20interactivas#auto_top&quot;&gt;Reto 2: Actividades interactivas. Preguntas Verdadero-Falso&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                    <int value="4"></int>
+                                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                    <int value="2"></int>
+                                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                    <int value="3"></int>
+                                    <string role="key" value="htmlTag"></string>
+                                    <string value="div"></string>
+                                    <string role="key" value="images"></string>
+                                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                                     <dictionary>
+                                      <string role="key" value=".listitems"></string>
+                                      <list></list>
+                                      <string role="key" value="idevice"></string>
+                                      <reference key="22"></reference>
+                                     </dictionary>
+                                    </instance>
+                                    <string role="key" value="intlinks_to_anchors"></string>
+                                    <dictionary>
+                                     <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%202%3A%20Actividades%20interactivas#auto_top"></unicode>
+                                     <reference key="21"></reference>
+                                    </dictionary>
+                                    <string role="key" value="nextImageId"></string>
+                                    <int value="0"></int>
+                                    <string role="key" value="parentNode"></string>
+                                    <reference key="23"></reference>
+                                   </dictionary>
+                                  </instance>
+                                 </list>
+                                 <string role="key" value="children"></string>
+                                 <list></list>
+                                </dictionary>
+                               </instance>
+                              </dictionary>
+                              <string role="key" value="nextImageId"></string>
+                              <int value="0"></int>
+                              <string role="key" value="parentNode"></string>
+                              <reference key="23"></reference>
+                             </dictionary>
+                            </instance>
+                           </list>
+                           <string role="key" value="icon"></string>
+                           <unicode value=""></unicode>
+                           <string role="key" value="id"></string>
+                           <unicode value="946"></unicode>
+                           <string role="key" value="ideviceCategory"></string>
+                           <unicode value="Text and Tasks"></unicode>
+                           <string role="key" value="lastIdevice"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="nextFieldId"></string>
+                           <int value="3"></int>
+                           <string role="key" value="originalicon"></string>
+                           <string value=""></string>
+                           <string role="key" value="parentNode"></string>
+                           <reference key="23"></reference>
+                           <string role="key" value="systemResources"></string>
+                           <list></list>
+                           <string role="key" value="undo"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="userResources"></string>
+                           <list></list>
+                           <string role="key" value="version"></string>
+                           <int value="0"></int>
+                          </dictionary>
+                         </instance>
+                         <reference key="24"></reference>
+                        </list>
+                        <string role="key" value="_id"></string>
+                        <unicode value="269"></unicode>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="anchor_fields"></string>
+                        <list></list>
+                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exportType"></string>
+                        <string value="website"></string>
+                        <string role="key" value="last_full_node_path"></string>
+                        <string value="exe-node:REA%3A%20Introducci%C3%B3n:Soluciones:Soluci%C3%B3n%20Reto%202%3A%20Actividades%20interactivas"></string>
+                        <string role="key" value="parent"></string>
+                        <reference key="16"></reference>
+                        <string role="key" value="top_anchors_linked_from_fields"></string>
+                        <list></list>
+                        <string role="key" value="children"></string>
+                        <list></list>
+                       </dictionary>
+                      </instance>
+                      <instance class="exe.engine.node.Node" reference="30">
+                       <dictionary>
+                        <string role="key" value="_title"></string>
+                        <unicode value="Solución Reto 3: Sopa de Letras"></unicode>
+                        <string role="key" value="idevices"></string>
+                        <list>
+                         <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
+                          <dictionary>
+                           <string role="key" value="_title"></string>
+                           <unicode value=""></unicode>
+                           <string role="key" value="_attributes"></string>
+                           <list>
+                            <tuple>
+                             <string value="title"></string>
+                             <list>
+                              <string value="Title"></string>
+                              <int value="0"></int>
+                              <int value="0"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="category"></string>
+                             <list>
+                              <string value="Category"></string>
+                              <int value="0"></int>
+                              <int value="1"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="css-class"></string>
+                             <list>
+                              <string value="CSS class"></string>
+                              <int value="0"></int>
+                              <int value="2"></int>
+                             </list>
+                            </tuple>
+                            <tuple>
+                             <string value="icon"></string>
+                             <list>
+                              <string value="Icon"></string>
+                              <int value="0"></int>
+                              <int value="3"></int>
+                             </list>
+                            </tuple>
+                           </list>
+                           <string role="key" value="_author"></string>
+                           <string value=""></string>
+                           <string role="key" value="_iDeviceDir"></string>
+                           <string value="text"></string>
+                           <string role="key" value="_purpose"></string>
+                           <string value=""></string>
+                           <string role="key" value="_tip"></string>
+                           <string value=""></string>
+                           <string role="key" value="_typeName"></string>
+                           <unicode value="Text"></unicode>
+                           <string role="key" value="_valid"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="class_"></string>
+                           <unicode value="text"></unicode>
+                           <string role="key" value="edit"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="emphasis"></string>
+                           <int value="0"></int>
+                           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                           <int value="1"></int>
+                           <string role="key" value="fields"></string>
+                           <list>
+                            <instance class="exe.engine.field.TextAreaField" reference="26">
+                             <dictionary>
+                              <string role="key" value="_id"></string>
+                              <unicode value="1028_2"></unicode>
+                              <string role="key" value="_idevice"></string>
+                              <reference key="25"></reference>
+                              <string role="key" value="_instruc"></string>
+                              <string value=""></string>
+                              <string role="key" value="_name"></string>
+                              <string value=""></string>
+                              <string role="key" value="anchor_names"></string>
+                              <list></list>
+                              <string role="key" value="anchors_linked_from_fields"></string>
+                              <dictionary></dictionary>
+                              <string role="key" value="content_w_resourcePaths"></string>
+                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Incluye aquí tu solución al &lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%203%3A%20Juegos%20Interactivos#auto_top&quot;&gt;Reto 3: Juegos interactivos. Sopa de letras&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                              <int value="4"></int>
+                              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                              <int value="2"></int>
+                              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                              <int value="3"></int>
+                              <string role="key" value="htmlTag"></string>
+                              <string value="div"></string>
+                              <string role="key" value="images"></string>
+                              <instance class="exe.engine.galleryidevice.GalleryImages">
+                               <dictionary>
+                                <string role="key" value=".listitems"></string>
+                                <list></list>
+                                <string role="key" value="idevice"></string>
+                                <reference key="26"></reference>
+                               </dictionary>
+                              </instance>
+                              <string role="key" value="intlinks_to_anchors"></string>
+                              <dictionary>
+                               <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%203%3A%20Juegos%20Interactivos#auto_top"></unicode>
+                               <instance class="exe.engine.node.Node" reference="29">
+                                <dictionary>
+                                 <string role="key" value="_title"></string>
+                                 <unicode value="Reto 3: Juegos Interactivos"></unicode>
+                                 <string role="key" value="idevices"></string>
+                                 <list>
+                                  <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
+                                   <dictionary>
+                                    <string role="key" value="_title"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="_attributes"></string>
+                                    <list>
+                                     <tuple>
+                                      <string value="title"></string>
+                                      <list>
+                                       <string value="Title"></string>
+                                       <int value="0"></int>
+                                       <int value="0"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="category"></string>
+                                      <list>
+                                       <string value="Category"></string>
+                                       <int value="0"></int>
+                                       <int value="1"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="css-class"></string>
+                                      <list>
+                                       <string value="CSS class"></string>
+                                       <int value="0"></int>
+                                       <int value="2"></int>
+                                      </list>
+                                     </tuple>
+                                     <tuple>
+                                      <string value="icon"></string>
+                                      <list>
+                                       <string value="Icon"></string>
+                                       <int value="0"></int>
+                                       <int value="3"></int>
+                                      </list>
+                                     </tuple>
+                                    </list>
+                                    <string role="key" value="_author"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_iDeviceDir"></string>
+                                    <string value="text"></string>
+                                    <string role="key" value="_purpose"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_tip"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="_typeName"></string>
+                                    <unicode value="Text"></unicode>
+                                    <string role="key" value="_valid"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="class_"></string>
+                                    <unicode value="text"></unicode>
+                                    <string role="key" value="edit"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="emphasis"></string>
+                                    <int value="0"></int>
+                                    <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                                    <int value="1"></int>
+                                    <string role="key" value="fields"></string>
+                                    <list>
+                                     <instance class="exe.engine.field.TextAreaField" reference="28">
+                                      <dictionary>
+                                       <string role="key" value="_id"></string>
+                                       <unicode value="1021_2"></unicode>
+                                       <string role="key" value="_idevice"></string>
+                                       <reference key="27"></reference>
+                                       <string role="key" value="_instruc"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="_name"></string>
+                                       <string value=""></string>
+                                       <string role="key" value="anchor_names"></string>
+                                       <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="content_w_resourcePaths"></string>
+                                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ol&gt;
+&lt;li&gt;Crea un juego interactivo del tipo &quot;Sopa de letras&quot; con las siguientes características.
+&lt;ul&gt;
+&lt;li&gt;Deberás incluir instrucciones para realizar la tarea.&lt;/li&gt;
+&lt;li&gt;La lista de palabras escondidas en la sopa de letras deberá ser de al menos 5.&lt;/li&gt;
+&lt;li&gt;Incluye imágenes que ilustren cada una de las palabras.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Te dejo aquí un videotutorial por si necesitas ayuda:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://acortar.link/81k0rR&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Crear una &quot;Sopa de letras&quot; en eXeLearning (iDevice &quot;Juegos interactivos/Dopa de letras&quot;).&lt;/a&gt;&lt;a href=&quot;https://acortar.link/qeJBgR&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;"></unicode>
+                                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                       <int value="4"></int>
+                                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                                       <int value="2"></int>
+                                       <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                                       <int value="3"></int>
+                                       <string role="key" value="htmlTag"></string>
+                                       <string value="div"></string>
+                                       <string role="key" value="images"></string>
+                                       <instance class="exe.engine.galleryidevice.GalleryImages">
+                                        <dictionary>
+                                         <string role="key" value=".listitems"></string>
+                                         <list></list>
+                                         <string role="key" value="idevice"></string>
+                                         <reference key="28"></reference>
+                                        </dictionary>
+                                       </instance>
+                                       <string role="key" value="intlinks_to_anchors"></string>
+                                       <dictionary></dictionary>
+                                       <string role="key" value="nextImageId"></string>
+                                       <int value="0"></int>
+                                       <string role="key" value="parentNode"></string>
+                                       <reference key="29"></reference>
+                                      </dictionary>
+                                     </instance>
+                                    </list>
+                                    <string role="key" value="icon"></string>
+                                    <unicode value=""></unicode>
+                                    <string role="key" value="id"></string>
+                                    <unicode value="941"></unicode>
+                                    <string role="key" value="ideviceCategory"></string>
+                                    <unicode value="Text and Tasks"></unicode>
+                                    <string role="key" value="lastIdevice"></string>
+                                    <bool value="0"></bool>
+                                    <string role="key" value="nextFieldId"></string>
+                                    <int value="3"></int>
+                                    <string role="key" value="originalicon"></string>
+                                    <string value=""></string>
+                                    <string role="key" value="parentNode"></string>
+                                    <reference key="29"></reference>
+                                    <string role="key" value="systemResources"></string>
+                                    <list></list>
+                                    <string role="key" value="undo"></string>
+                                    <bool value="1"></bool>
+                                    <string role="key" value="userResources"></string>
+                                    <list></list>
+                                    <string role="key" value="version"></string>
+                                    <int value="0"></int>
+                                   </dictionary>
+                                  </instance>
+                                 </list>
+                                 <string role="key" value="_id"></string>
+                                 <unicode value="267"></unicode>
+                                 <string role="key" value="_package"></string>
+                                 <reference key="2"></reference>
+                                 <string role="key" value="anchor_fields"></string>
+                                 <list></list>
+                                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                                 <int value="2"></int>
+                                 <string role="key" value="exportType"></string>
+                                 <string value="website"></string>
+                                 <string role="key" value="last_full_node_path"></string>
+                                 <string value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios:Reto%203%3A%20Juegos%20Interactivos"></string>
+                                 <string role="key" value="parent"></string>
+                                 <reference key="6"></reference>
+                                 <string role="key" value="top_anchors_linked_from_fields"></string>
+                                 <list>
+                                  <reference key="26"></reference>
+                                 </list>
+                                 <string role="key" value="children"></string>
+                                 <list></list>
+                                </dictionary>
+                               </instance>
+                              </dictionary>
+                              <string role="key" value="nextImageId"></string>
+                              <int value="0"></int>
+                              <string role="key" value="parentNode"></string>
+                              <reference key="30"></reference>
+                             </dictionary>
+                            </instance>
+                           </list>
+                           <string role="key" value="icon"></string>
+                           <unicode value=""></unicode>
+                           <string role="key" value="id"></string>
+                           <unicode value="948"></unicode>
+                           <string role="key" value="ideviceCategory"></string>
+                           <unicode value="Text and Tasks"></unicode>
+                           <string role="key" value="lastIdevice"></string>
+                           <bool value="0"></bool>
+                           <string role="key" value="nextFieldId"></string>
+                           <int value="3"></int>
+                           <string role="key" value="originalicon"></string>
+                           <string value=""></string>
+                           <string role="key" value="parentNode"></string>
+                           <reference key="30"></reference>
+                           <string role="key" value="systemResources"></string>
+                           <list></list>
+                           <string role="key" value="undo"></string>
+                           <bool value="1"></bool>
+                           <string role="key" value="userResources"></string>
+                           <list></list>
+                           <string role="key" value="version"></string>
+                           <int value="0"></int>
+                          </dictionary>
+                         </instance>
+                        </list>
+                        <string role="key" value="_id"></string>
+                        <unicode value="270"></unicode>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="anchor_fields"></string>
+                        <list></list>
+                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exportType"></string>
+                        <string value="website"></string>
+                        <string role="key" value="last_full_node_path"></string>
+                        <string value="exe-node:REA%3A%20Introducci%C3%B3n:Soluciones:Soluci%C3%B3n%20Reto%203%3A%20Sopa%20de%20Letras"></string>
+                        <string role="key" value="parent"></string>
+                        <reference key="16"></reference>
+                        <string role="key" value="top_anchors_linked_from_fields"></string>
+                        <list></list>
+                        <string role="key" value="children"></string>
+                        <list></list>
+                       </dictionary>
+                      </instance>
+                     </list>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="systemResources"></string>
+                   <list></list>
+                   <string role="key" value="undo"></string>
+                   <bool value="1"></bool>
+                   <string role="key" value="userResources"></string>
+                   <list></list>
+                   <string role="key" value="version"></string>
+                   <int value="0"></int>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16.8px;&quot;&gt;En esta sección encontrarás un espacio para resolver cada uno de los retos que se han propuesto en el nodo &quot;&lt;a href=&quot;exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios#auto_top&quot;&gt;Ejercicios&lt;/a&gt;&quot;. Por favor, respeta la estructura y resuelve cada reto en el nodo correspondiente.&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="8"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary>
+                  <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ejercicios#auto_top"></unicode>
+                  <reference key="6"></reference>
+                 </dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="16"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="children"></string>
+              <list>
+               <reference key="14"></reference>
+               <reference key="21"></reference>
+               <reference key="29"></reference>
+              </list>
+             </dictionary>
+            </instance>
+            <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Ficha%20del%20docente#auto_top"></unicode>
+            <instance class="exe.engine.node.Node" reference="33">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Ficha del docente"></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="31">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="0"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="32">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="1016_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="31"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Como cualquier otro cuaderno de ejercicios es necesario identificarlo para saber quién ha realizado las actividades que se piden. Así pues, si lo deseas, edita la siguiente tabla:&lt;/p&gt;
+&lt;table border=&quot;1&quot; style=&quot;width: 61.9856%; border-style: dashed;&quot; class=&quot;exe-table-minimalist&quot; height=&quot;156&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 100%; border-style: dashed; text-align: center;&quot; colspan=&quot;2&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #e06666;&quot;&gt;REA Introducción. Cuadernos de ejercicios&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 38.6196%;&quot;&gt;&lt;strong&gt;Nombre&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 61.3804%;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 38.6196%;&quot;&gt;&lt;strong&gt;Centro Educativo&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 61.3804%;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 38.6196%;&quot;&gt;&lt;strong&gt;Especialidad/Materia que impartes&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 61.3804%;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="32"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="33"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="921"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="33"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="263"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:REA%3A%20Introducci%C3%B3n:Ficha%20del%20docente"></string>
+              <string role="key" value="parent"></string>
+              <reference key="7"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list>
+               <reference key="3"></reference>
+              </list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <unicode role="key" value="exe-node:REA%3A%20Introducci%C3%B3n:Soluciones#auto_top"></unicode>
+            <reference key="16"></reference>
+           </dictionary>
+           <string role="key" value="nextImageId"></string>
+           <int value="273"></int>
+           <string role="key" value="parentNode"></string>
+           <reference key="7"></reference>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="icon"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="id"></string>
+        <unicode value="428"></unicode>
+        <string role="key" value="ideviceCategory"></string>
+        <unicode value="Text and Tasks"></unicode>
+        <string role="key" value="lastIdevice"></string>
+        <bool value="0"></bool>
+        <string role="key" value="nextFieldId"></string>
+        <int value="3"></int>
+        <string role="key" value="originalicon"></string>
+        <string value=""></string>
+        <string role="key" value="parentNode"></string>
+        <reference key="7"></reference>
+        <string role="key" value="systemResources"></string>
+        <list></list>
+        <string role="key" value="undo"></string>
+        <bool value="1"></bool>
+        <string role="key" value="userResources"></string>
+        <list>
+         <reference key="34"></reference>
+        </list>
+        <string role="key" value="version"></string>
+        <int value="0"></int>
+       </dictionary>
+      </instance>
+     </list>
+     <string role="key" value="_id"></string>
+     <unicode value="0"></unicode>
+     <string role="key" value="_package"></string>
+     <reference key="2"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
+     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+     <int value="2"></int>
+     <string role="key" value="exportType"></string>
+     <string value="website"></string>
+     <string role="key" value="last_full_node_path"></string>
+     <string value="exe-node:REA%3A%20Introducci%C3%B3n"></string>
+     <string role="key" value="parent"></string>
+     <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
+     <string role="key" value="children"></string>
+     <list>
+      <reference key="33"></reference>
+      <reference key="6"></reference>
+      <reference key="16"></reference>
+      <instance class="exe.engine.node.Node" reference="37">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Previsualización en eXeLearning"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="36">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="1019_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="35"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Antes de realizar tu entrega o publicar tu Recurso Educativo Abierto recuerda previsualizarlo. Para ello solo tienes que hacer clic en el botón &quot;Visualización previa&quot; que aparece en la esquina superior derecha.&lt;/p&gt;
+&lt;p&gt;En cualquier caso te dejo un vídeo aquí donde Francisco Melendo lo explica a la perfección.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-media position-center license-CC-BY&quot; style=&quot;width: 800px; text-align: center;&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/g1rhfn5veN0&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://www.youtube.com/@fjmelendoroman&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Francisco Javier Melendo Román&lt;/a&gt;. &lt;a href=&quot;https://www.youtube.com/watch?v=g1rhfn5veN0&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;eXeLearning - Como previsualizar nuestro contenido&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY&quot;&gt;CC BY&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="36"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="37"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="916"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="37"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="244"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="2"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:REA%3A%20Introducci%C3%B3n:Previsualizaci%C3%B3n%20en%20eXeLearning"></string>
+        <string role="key" value="parent"></string>
+        <reference key="7"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="40">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Créditos"></unicode>
+        <string role="key" value="idevices"></string>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Autoría"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="39">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="251_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="38"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/Creditos_REA_Basico_Cuaderno_Ejercicios.png&quot; alt=&quot;Imagen REA Introducción. Cuaderno de Ejercicios&quot; width=&quot;850&quot; height=&quot;400&quot; /&gt;&lt;/h1&gt;
+&lt;table class=&quot;exe-table&quot;&gt;&lt;caption&gt;&lt;/caption&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th style=&quot;width: 436.406px;&quot;&gt;Título&lt;/th&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;REA Introducción. Cuaderno de Ejercicios&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&quot;width: 436.406px;&quot;&gt;Descripción&lt;/th&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;Recurso Educativo Abierto diseñado para introducir a los interesados en la creación y edición de contenidos REA mediante eXeLearning. &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&quot;width: 436.406px;&quot;&gt;Persona elaboradora de contenido&lt;/th&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;Pedro Jesús Ramón Torregrosa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&quot;width: 436.406px;&quot;&gt;Licencia&lt;/th&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;&lt;a rel=&quot;license noopener&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot;&gt;Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Este contenido fue creado con &lt;a href=&quot;http://exelearning.net/&quot;&gt;eXeLearning&lt;/a&gt;, el editor libre y de fuente abierta diseñado para crear recursos educativos.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="100744"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="1014_251_2.722"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="41">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="38"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Creditos_REA_Basico_Cuaderno_Ejercicios.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="/var/folders/7d/v82rm_vn46v58_3lg2mx8kfr0000gn/T/tmpvaN1Fw/Creditos_REA_Basico_Cuaderno_Ejercicios.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="0eb33b2d6bf8fb61b61c9129164e0c00"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="39"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="39"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="723"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="40"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value="udl_exp_tareagrupal"></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="1014"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="40"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="41"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="42">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Historial de versiones"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_editionFolder"></string>
+           <string value="text/edition/"></string>
+           <string role="key" value="_editionResources"></string>
+           <list>
+            <string value="text.js"></string>
+           </list>
+           <string role="key" value="_exportFolder"></string>
+           <none></none>
+           <string role="key" value="_exportResources"></string>
+           <list></list>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="43">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="603_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="42"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;table style=&quot;height: 109px; width: 101.072%;&quot; class=&quot;exe-table&quot; border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 69px;&quot;&gt;
+&lt;td style=&quot;width: 14.3559%; height: 69px; background-color: #f4f4f4;&quot;&gt;Elaborado por:&lt;/td&gt;
+&lt;td colspan=&quot;4&quot; style=&quot;height: 69px; background-color: #f4f4f4; width: 53.294%;&quot;&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;https://twitter.com/MasQCiencia&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pedro Jesús Ramón Torregrosa&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 20px;&quot;&gt;
+&lt;th style=&quot;width: 14.3559%; height: 40px; text-align: center;&quot;&gt; Versión:&lt;/th&gt;
+&lt;td style=&quot;width: 10.7178%; height: 20px; text-align: center;&quot;&gt;01&lt;/td&gt;
+&lt;td style=&quot;width: 19.2724%; height: 40px; text-align: center;&quot;&gt;&lt;strong&gt;Fecha de publicación:&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 23.3038%; height: 20px; text-align: center;&quot;&gt;21 de febrero de 2024&lt;/td&gt;
+&lt;td style=&quot;width: 32.35%; text-align: center; height: 20px;&quot;&gt;Primera versión&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="43"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="40"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value="udl_eng_temporalizacion"></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="1015"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="40"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="_id"></string>
+        <unicode value="243"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="2"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:REA%3A%20Introducci%C3%B3n:Cr%C3%A9ditos"></string>
+        <string role="key" value="parent"></string>
+        <reference key="7"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+     </list>
+    </dictionary>
+   </instance>
+   <unicode role="key" value="202"></unicode>
+   <reference key="6"></reference>
+   <unicode role="key" value="243"></unicode>
+   <reference key="40"></reference>
+   <unicode role="key" value="244"></unicode>
+   <reference key="37"></reference>
+   <unicode role="key" value="263"></unicode>
+   <reference key="33"></reference>
+   <unicode role="key" value="264"></unicode>
+   <reference key="16"></reference>
+   <unicode role="key" value="265"></unicode>
+   <reference key="14"></reference>
+   <unicode role="key" value="266"></unicode>
+   <reference key="21"></reference>
+   <unicode role="key" value="267"></unicode>
+   <reference key="29"></reference>
+   <unicode role="key" value="268"></unicode>
+   <reference key="15"></reference>
+   <unicode role="key" value="269"></unicode>
+   <reference key="23"></reference>
+   <unicode role="key" value="270"></unicode>
+   <reference key="30"></reference>
+  </dictionary>
+  <string role="key" value="_objectives"></string>
+  <unicode value="Iniciarse en la edición y creación de REA con eXeLearningn"></unicode>
+  <string role="key" value="_preknowledge"></string>
+  <unicode value="Ninguno"></unicode>
+  <string role="key" value="_templateFile"></string>
+  <string value="Base"></string>
+  <string role="key" value="anchor_nodes"></string>
+  <list>
+   <reference key="6"></reference>
+   <reference key="33"></reference>
+   <reference key="16"></reference>
+   <reference key="14"></reference>
+   <reference key="21"></reference>
+   <reference key="29"></reference>
+  </list>
+  <string role="key" value="backgroundImgTile"></string>
+  <bool value="0"></bool>
+  <string role="key" value="currentNode"></string>
+  <reference key="40"></reference>
+  <string role="key" value="dublinCore"></string>
+  <instance class="exe.engine.package.DublinCore">
+   <dictionary>
+    <string role="key" value="contributors"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="coverage"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="creator"></string>
+    <unicode value="Pedro J. Ramón Torregrosa"></unicode>
+    <string role="key" value="date"></string>
+    <unicode value="2024-02-12"></unicode>
+    <string role="key" value="description"></string>
+    <unicode value="REA de ejercicios para que los participantes en una actividad formativa se aproximen a la edición y creación de Recursos Digitales Abiertos con eXeLearning."></unicode>
+    <string role="key" value="format"></string>
+    <unicode value="SCORM 1.2"></unicode>
+    <string role="key" value="identifier"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="language"></string>
+    <unicode value="es"></unicode>
+    <string role="key" value="publisher"></string>
+    <unicode value="Pedro J. Ramón torregrosa"></unicode>
+    <string role="key" value="relation"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="rights"></string>
+    <unicode value="CC-By-NC-SA"></unicode>
+    <string role="key" value="source"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="subject"></string>
+    <unicode value="eXeLearning"></unicode>
+    <string role="key" value="title"></string>
+    <unicode value="Edición y Diseño de Recursos Educativos Abierto. Introducción"></unicode>
+    <string role="key" value="type"></string>
+    <unicode value="objeto de aprendizaje"></unicode>
+   </dictionary>
+  </instance>
+  <string role="key" value="exe.engine.package.Package.persistenceVersion"></string>
+  <int value="16"></int>
+  <string role="key" value="exportMetadataType"></string>
+  <unicode value="LOMES"></unicode>
+  <string role="key" value="exportSource"></string>
+  <bool value="1"></bool>
+  <string role="key" value="footer"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="isLoading"></string>
+  <bool value="0"></bool>
+  <string role="key" value="license"></string>
+  <unicode value="creative commons: attribution - non commercial - share alike 4.0"></unicode>
+  <string role="key" value="lom"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="exercise"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="REA de ejercicios para que los participantes en una actividad formativa se aproximen a la edici\xc3\xb3n y creaci\xc3\xb3n de Recursos Digitales Abiertos con eXeLearning."></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Mi cat\xc3\xa1logo"></string>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="REAIntroducci\xc3\xb3n"></string>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Creaci\xc3\xb3n y Dise\xc3\xb1o de REA. Introducci\xc3\xb3n"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="title"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <none></none>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list></list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOMv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <none></none>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="yes"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="rights"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="lomEs"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="tutorial"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="REA de ejercicios para que los participantes en una actividad formativa se aproximen a la edici\xc3\xb3n y creaci\xc3\xb3n de Recursos Digitales Abiertos con eXeLearning."></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Mi cat\xc3\xa1logo"></string>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="REAIntroducci\xc3\xb3n"></string>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Creaci\xc3\xb3n y Dise\xc3\xb1o de REA. Introducci\xc3\xb3n"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="title"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <none></none>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list></list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOM-ESv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <instance class="exe.engine.lom.lomsubs.accessSub">
+       <dictionary>
+        <string role="key" value="accessType"></string>
+        <instance class="exe.engine.lom.lomsubs.accessTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="accessType"></string>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.accessTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="universal"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <string role="key" value="description"></string>
+        <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="Preestablecido"></string>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="access"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="creative commons: attribution - non commercial - share alike"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="rights"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="mxmlforcemediaonly"></string>
+  <bool value="0"></bool>
+  <string role="key" value="mxmlheight"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlprofilelist"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlwidth"></string>
+  <string value=""></string>
+  <string role="key" value="release"></string>
+  <string value="2.8.1"></string>
+  <string role="key" value="resources"></string>
+  <dictionary>
+   <string role="key" value="0eb33b2d6bf8fb61b61c9129164e0c00"></string>
+   <list>
+    <reference key="34"></reference>
+    <reference key="41"></reference>
+   </list>
+  </dictionary>
+  <string role="key" value="root"></string>
+  <reference key="7"></reference>
+  <string role="key" value="scolinks"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowsinglepage"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowwebsite"></string>
+  <bool value="0"></bool>
+  <string role="key" value="style"></string>
+  <unicode value="rea_basico_pedro"></unicode>
+  <string role="key" value="sugaractivityname"></string>
+  <string value=""></string>
+  <string role="key" value="sugarservicename"></string>
+  <string value=""></string>
+  <string role="key" value="tempFile"></string>
+  <bool value="0"></bool>
+ </dictionary>
+</instance>
